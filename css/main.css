@@ -938,7 +938,7 @@ textarea {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  width: calc(100% - 60px)/3;
+  width: calc((100% - 60px) / 3);
 }
 
 .list-of-work .item {
